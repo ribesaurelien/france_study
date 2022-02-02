@@ -1,0 +1,1 @@
+../../normNS/spline_per.R
