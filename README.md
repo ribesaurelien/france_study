@@ -59,6 +59,9 @@ If you use our routines, please cite the corresponding paper.
 License
 -------
 
+France_study: code going along with a research paper assessing past and future warming over France.
+Copyright (C) 2022 Aurélien Ribes
+
 These routines are free: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
