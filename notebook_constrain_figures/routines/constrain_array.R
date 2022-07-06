@@ -1,7 +1,7 @@
 constrain_array = function(S_mean,Sigma_mod,Xo,Sigma_obs,Nres,centering_CX=T,ref_CX=NULL) {
-
+	
 	distribs = constrain(S_mean,Sigma_mod,Xo,Sigma_obs, Nres, centering_CX=centering_CX,ref_CX=ref_CX)
-
+	
 	full_names = names(S_mean)
 	ns = length(full_names)
 	year_names = substr(full_names,1,4)
